@@ -13,7 +13,8 @@ const font = Poppins({ weight: '500', subsets: ['latin']})
 const title = 'David\'s Site';
 const description = 'This my personal site';
 const links = [
-  {title: 'Unfinished Link', href: '/pokemon'},
+  {title: 'Chess', href: 'https://www.chess.com'},
+  {title: 'Pokemon', href: '/pokemon'},
   {title: 'Rick and Morty', href: '/rick-and-morty'}
 ];
 const SocialLinks = {
