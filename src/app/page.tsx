@@ -20,7 +20,7 @@ export default function Home() {
       <div>
         <section>
           <p className={'prose'}>
-            Hey I&apos;m Luke. This is my site.
+            Hello, I am <i>Somebody</i>. This is a website.
           </p>
           <div className={'my-4'}>
             <i>

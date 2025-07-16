@@ -10,7 +10,7 @@ TODO:  Change these things along with:
   - favicon.ico in /public
  */
 const font = Poppins({ weight: '700', subsets: ['latin']})
-const title = 'Luke\'s Site';
+const title = 'Somebody\'s Site';
 const description = 'This my personal site';
 const links = [
   {title: 'Pokemon', href: '/pokemon'},
