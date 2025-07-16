@@ -13,9 +13,8 @@ const font = Fira_Sans({ weight: '400', subsets: ['latin']})
 const title = 'David\'s Site';
 const description = 'This my personal site';
 const links = [
-  {title: 'Chess', href: 'https://www.chess.com'},
-  {title: 'Pokemon', href: '/pokemon'},
-  {title: 'Rick and Morty', href: '/rick-and-morty'}
+  {title: 'Prokofiev\'s 1st Violin Concerto', href: 'https://www.youtube.com/watch?v=ozvTHD63di8'},
+  {title: 'Brahms\'s 2nd Piano Concerto', href: 'https://www.youtube.com/watch?v=40NsFKuskH0'}
 ];
 const SocialLinks = {
   twitter: 'https://x.com/dunscombe_luke',
