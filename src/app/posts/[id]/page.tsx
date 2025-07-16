@@ -29,7 +29,7 @@ export default async function Post(props: Props) {
   return (
       <article className={'prose'}>
         <h1>{postData.title} </h1>
-        <Date dateString={postData.date}/>
+        <i><Date dateString={postData.date}/></i>
         <div dangerouslySetInnerHTML={{__html: postData.contentHtml}}/>
       </article>
   )
