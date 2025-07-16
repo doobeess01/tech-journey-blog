@@ -9,11 +9,11 @@ TODO:  Change these things along with:
   - avatar.jpeg in /public/images
   - favicon.ico in /public
  */
-const font = Poppins({ weight: '700', subsets: ['latin']})
+const font = Poppins({ weight: '500', subsets: ['latin']})
 const title = 'David\'s Site';
 const description = 'This my personal site';
 const links = [
-  {title: 'Pokemon', href: '/pokemon'},
+  {title: 'Unfinished Link', href: '/pokemon'},
   {title: 'Rick and Morty', href: '/rick-and-morty'}
 ];
 const SocialLinks = {
