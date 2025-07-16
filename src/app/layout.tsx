@@ -17,7 +17,7 @@ const links = [
   {title: 'Brahms\'s 2nd Piano Concerto', href: 'https://www.youtube.com/watch?v=40NsFKuskH0'}
 ];
 const SocialLinks = {
-  github: 'github.com/doobeess01',
+  github: 'https://www.github.com/doobeess01',
   email: 'mailto:david.m.dee01@gmail.com'
 }
 
