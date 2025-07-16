@@ -1,6 +1,6 @@
 import './globals.css'
 import type {Metadata} from 'next'
-import {Caramel, Mynerve, Mystery_Quest, Poppins, Romanesco} from 'next/font/google';
+import {Caramel, Fira_Sans, Mynerve, Mystery_Quest, Poppins, Romanesco} from 'next/font/google';
 import NavBarContainer from "@/components/NavBarContainer";
 import Footer from "@/components/Footer";
 
@@ -9,7 +9,7 @@ TODO:  Change these things along with:
   - avatar.jpeg in /public/images
   - favicon.ico in /public
  */
-const font = Mynerve({ weight: '400', subsets: ['latin']})
+const font = Fira_Sans({ weight: '400', subsets: ['latin']})
 const title = 'David\'s Site';
 const description = 'This my personal site';
 const links = [
