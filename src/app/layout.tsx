@@ -17,10 +17,8 @@ const links = [
   {title: 'Brahms\'s 2nd Piano Concerto', href: 'https://www.youtube.com/watch?v=40NsFKuskH0'}
 ];
 const SocialLinks = {
-  twitter: 'https://x.com/dunscombe_luke',
-  github: '#github',
-  instagram: '#insta',
-  email: 'mailto:ldunscombe@leantechniques.com'
+  github: 'github.com/doobeess01',
+  email: 'mailto:david.m.dee01@gmail.com'
 }
 
 export const metadata: Metadata = {
