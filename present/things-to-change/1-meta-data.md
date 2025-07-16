@@ -12,6 +12,7 @@ const font = Inter({subsets: ['latin']})
 const title = 'Luke\'s Site';
 const description = 'This the Tech Journey template site';
 const links = [
+  {title: 'Chess', href: 'https://www.chess.com'},
   {title: 'Pokemon', href: '/pokemon'},
   {title: 'Rick and Morty', href: '/rick-and-morty'}
 ];
